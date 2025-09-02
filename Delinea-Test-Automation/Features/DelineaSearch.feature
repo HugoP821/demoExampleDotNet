@@ -4,6 +4,6 @@ Feature: Google Search
   Para validar que aparece Delinea en los resultados
 
   Scenario: Buscar Delinea en Google
-    Given que estoy en la página de Google
+    Given Here en Google Page
     When busco "Delinea"
     Then debería ver "delinea.com/es" en los resultados
