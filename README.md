@@ -28,7 +28,7 @@ The goal of this project is to demonstrate advanced QA Automation practices appl
 Clone the repo:
 
 ```
-git clone https://github.com/<your-username>/Delinea-Test-Automation.git
+git clone https://github.com/HugoP821/Delinea-Test-Automation.git
 cd Delinea-Test-Automation
 ```
 Restore dependencies:
