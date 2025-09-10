@@ -1,6 +1,6 @@
 Scenario Outline: Login with multiple users
     Given I am on the login page
-    When I login with "<username>" and "<password>"
+    When I login with "<salvador>" and "<password>"
     Then I should see "<message>"
 
 Examples:
